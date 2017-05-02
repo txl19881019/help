@@ -243,23 +243,19 @@ display: none;
 </head>
 <body>
 <header>
-<h1 id="hihome-">HiHome透明装饰使用手册</h1>
-
+<x-markdown src="section/00_head.md" />
 </header>
 <nav>
 <div class="menubar">
 <a class="button">&#9776;&nbsp;索引</a>
 </div>
-<ul>
-</ul>
-
+<x-index />
 </nav>
 <article>
 
 </article>
 <footer>
-<p>© 2013-2014 Alibaba.com, Inc.</p>
-
+<x-markdown src="section/99_footer.md" />
 </footer>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
