@@ -6,7 +6,7 @@
 
 ####3.1.1.1 首页
 
-![首页](https://raw.githubusercontent.com/txl19881019/help/master/section/img//1.png)
+![首页](https://raw.githubusercontent.com/txl19881019/help/master/section/img/1.png)
 <br/>
 <br/>
 该页面提供透明装饰轮播展示图片。提供HiHome透明装饰产品介绍快捷入口。<br/>
@@ -34,7 +34,7 @@ iPhone版本进入apple store下载。<br/>
 Android版本进入下载页面，点击即可下载。<br/>
 下载也支持扫码下载，鼠标放到对应版本的二维码上<br/>
 ![二维码1](https://raw.githubusercontent.com/txl19881019/help/master/section/img/8.png)<br/>
-即可出现对应的下载二维码：
+即可出现对应的下载二维码：<br/>
 ![二维码2](https://raw.githubusercontent.com/txl19881019/help/master/section/img/9.png)<br/>
 扫码即可下载。
 
@@ -48,9 +48,9 @@ Android版本进入下载页面，点击即可下载。<br/>
 联系我们页面提供了联系方式，如果您有任何问题需要咨询，可以通过多种方式与我们联系。
 
 ####3.1.1.6 注册####
-任意页面点击免费注册按钮
+任意页面点击免费注册按钮<br/>
 ![注册](https://raw.githubusercontent.com/txl19881019/help/master/section/img/12.png)<br/>
-进入注册页面
+进入注册页面<br/>
 ![注册页面](https://raw.githubusercontent.com/txl19881019/help/master/section/img/13.png)<br/>
 注册页面下，根据您的角色，按照提示即可成功注册。
 
