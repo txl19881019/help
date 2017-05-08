@@ -254,6 +254,8 @@ display: none;
 <article>
 <x-markdown src="section/01_introduction.md" />
 <x-markdown src="section/02_briefing.md" />
+<x-markdown src="section/03_features.md" />
+
 </article>
 <footer>
 <x-markdown src="section/99_footer.md" />
