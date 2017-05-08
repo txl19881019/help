@@ -212,9 +212,13 @@ margin: 0;
 padding: 0 0 0 8px;
 }
 
+nav .level1 {
+font-size:13pt;
+font-weight:bold;
+}
+
 nav .level2 {
-font-size: 16pt;
-font-weight: bold;
+font-size: 11pt;
 }
 
 nav li {
