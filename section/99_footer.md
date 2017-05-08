@@ -1,1 +1,1 @@
-© 2013-2014 Alibaba.com, Inc.
+© 2014 - 2015 HiHome. All Rights Reserved
