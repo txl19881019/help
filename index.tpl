@@ -219,7 +219,25 @@ font-weight:bold;
 
 nav .level2 {
 font-size: 11pt;
+padding-left: 1em;
 }
+
+nav .level3 {
+padding-left: 2em;
+}
+
+nav .level3:before { 
+content: "» ";
+}
+
+nav .level4 {
+padding-left: 3em;
+}
+
+nav .level4:before {
+content: "› ";
+}
+
 
 nav li {
 line-height: 240%;
