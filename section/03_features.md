@@ -12,21 +12,21 @@
 该页面提供透明装饰轮播展示图片。提供HiHome透明装饰产品介绍快捷入口。<br/>
 点击产品介绍：
 <br/>
-![产品介绍](https://raw.githubusercontent.com/txl19881019/help/master/section/img/2.png)
+![产品介绍](https://raw.githubusercontent.com/txl19881019/help/master/section/img/2.png)<br/>
 进入产品介绍页面。<br/>
 点击移动客户端下载<br/>
-![移动端下载](https://raw.githubusercontent.com/txl19881019/help/master/section/img/3.png)
+![移动端下载](https://raw.githubusercontent.com/txl19881019/help/master/section/img/3.png)<br/>
 进入产品下载页面。<br/>
 点击管理后台入口:<br/>
-![管理后台入口](https://raw.githubusercontent.com/txl19881019/help/master/section/img/4.png)
+![管理后台入口](https://raw.githubusercontent.com/txl19881019/help/master/section/img/4.png)<br/>
 进入透明装饰管理后台。
 
 ####3.1.1.2 产品####
-![产品](https://raw.githubusercontent.com/txl19881019/help/master/section/img/5.png)
+![产品](https://raw.githubusercontent.com/txl19881019/help/master/section/img/5.png)<br/>
 该页面详细介绍了透明装饰管理提供的功能。
 
 ####3.1.1.3 下载####
-![下载](https://raw.githubusercontent.com/txl19881019/help/master/section/img/6.png)
+![下载](https://raw.githubusercontent.com/txl19881019/help/master/section/img/6.png)<br/>
 下载页面提供了iPhone版本、Android版本下载。以及提供了管理后台的快捷入口。<br/>
 点击下载按钮:<br/>
 ![下载按钮](https://raw.githubusercontent.com/txl19881019/help/master/section/img/7.png)<br/>
