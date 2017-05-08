@@ -428,3 +428,55 @@ Android版本进入下载页面，点击即可下载。<br/>
 
 
 ### 3.2.2 项目管理 ###
+
+####3.2.2.1 项目创建####
+
+前几个步骤均结束，之后即可创建项目。<br/>
+方法一：点击首页中的项目创建（如图）：<br/>
+![图片](https://raw.githubusercontent.com/txl19881019/help/master/section/img/87.png)<br/>
+方法二：点击系统管理中的“项目创建”（下图）。<br/>
+![图片](https://raw.githubusercontent.com/txl19881019/help/master/section/img/88.png)<br/>
+
+#####3.2.2.1.1创建项目#####
+
+通过点击侧边栏项目创建或者首页的项目创建按钮，进入项目创建：<br/>
+![图片](https://raw.githubusercontent.com/txl19881019/help/master/section/img/89.png)<br/>
+![图片](https://raw.githubusercontent.com/txl19881019/help/master/section/img/90.png)<br/>
+在项目创建页面中，需要录入项目的详细信息。![图片](https://raw.githubusercontent.com/txl19881019/help/master/section/img/91.png)为必填项。<br/>
+1）基本信息<br/>
+按格式录入项目的详细信息。用户的详细信息录入后，点击![图片](https://raw.githubusercontent.com/txl19881019/help/master/section/img/92.png)按钮，进行地图标注。<br/>
+若无法进行地图标注，可以使用鼠标点击，进行准确位置标注。<br/>
+
+![图片](https://raw.githubusercontent.com/txl19881019/help/master/section/img/93.png)<br/>
+
+<br/>
+2）人员配置<br/>
+
+![图片](https://raw.githubusercontent.com/txl19881019/help/master/section/img/94.png)<br/>
+人员信息通过下拉选项选择，如果没有对应人员，可通过下拉选项最后一个选项去添加人员。<br/>
+![图片](https://raw.githubusercontent.com/txl19881019/help/master/section/img/95.png)<br/>
+
+人员信息通过下拉选项选择，如果没有对应人员，可通过下拉选项最后一个选项去添加人员。<br/>
+![图片](https://raw.githubusercontent.com/txl19881019/help/master/section/img/96.png)<br/>
+
+<br/>
+
+3）项目流程配置<br/>
+
+![图片](https://raw.githubusercontent.com/txl19881019/help/master/section/img/97.png)<br/>
+项目流程配置中可以通过下拉选项，选择已经配置的流程。也可以自行添加，操作流程参考项目流程详情操作。<br/>
+![图片](https://raw.githubusercontent.com/txl19881019/help/master/section/img/98.png)<br/>
+流程阶段，可通过拖拽进行重新排序。<br/>
+
+<br/>
+
+4）项目附件<br/>
+![图片](https://raw.githubusercontent.com/txl19881019/help/master/section/img/99.png)<br/>
+项目附件中可添加房屋户型图、平面图、效果图，通过添加按钮。可以批量添加多张图片。<br/>
+<br/>
+录入完成后，点击创建保存按钮，即可保存项目。<br/>
+![图片](https://raw.githubusercontent.com/txl19881019/help/master/section/img/100.png)<br/>
+
+####3.2.2.2 项目列表####
+
+点击项目列表（如图）：<br/>
