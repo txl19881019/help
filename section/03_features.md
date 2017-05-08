@@ -713,7 +713,7 @@ Android端分为三个模块：项目、品牌、发现。<br/>
 预警信息展示项目流程中超时流程、业主或项目监理低评分流程的预警信息。<br/>
 
 
-####3.2.2.2项目监理####
+####3.3.2.2项目监理####
 
 <br/>
 ![图片](https://raw.githubusercontent.com/txl19881019/help/master/section/img/141.png)<br/>
@@ -767,7 +767,7 @@ Android端分为三个模块：项目、品牌、发现。<br/>
 <br/>
 
 
-####3.2.2.3装修业主####
+####3.3.2.3装修业主####
 
 <br/>
 ![图片](https://raw.githubusercontent.com/txl19881019/help/master/section/img/151.png)<br/>
@@ -812,7 +812,7 @@ Android端分为三个模块：项目、品牌、发现。<br/>
 业主可以查看关于项目的基本信息，包括项目状态、项目编号、业主姓名电话、项目地址、项目经理姓名电话、设计师姓名电话、项目监理姓名电话已经户型图、平面图、效果图等。<br/>
 
 
-####3.2.2.4设计师####
+####3.3.2.4设计师####
 
 <br/>
 ![图片](https://raw.githubusercontent.com/txl19881019/help/master/section/img/159.png)<br/>
